@@ -1,6 +1,0 @@
-bar sock
-car dog
-dog car
-fog town
-sock bar
-town fog

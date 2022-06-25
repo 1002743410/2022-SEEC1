@@ -1,3 +1,0 @@
-bar sock
-car dog
-town fog
